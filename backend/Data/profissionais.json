@@ -1,0 +1,2511 @@
+[
+  {
+    "id": 101,
+    "nome": "Ana Paula Souza",
+    "foto": "",
+    "cargo": "Desenvolvedora Front-end",
+    "resumo": "Desenvolvedora focada em interfaces responsivas e acessíveis.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento Front-end",
+    "habilidadesTecnicas": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "React",
+      "TailwindCSS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Desenvolvedora Front-end",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvedora focada em interfaces responsivas e acessíveis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto ProFuture",
+        "link": "",
+        "descricao": "Projeto acadêmico focado no futuro do trabalho e conexão entre talentos e empresas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Desenvolvimento Front-end"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Desenvolvimento Front-end",
+      "Inovação",
+      "Aprendizado Contínuo"
+    ],
+    "radar": {
+      "ods4": 10,
+      "ods8": 10,
+      "ods9": 10,
+      "ods10": 9
+    }
+  },
+  {
+    "id": 102,
+    "nome": "Bruno Lima",
+    "foto": "",
+    "cargo": "Desenvolvedor Back-end",
+    "resumo": "Especialista em APIs escaláveis e integrações com serviços cloud.",
+    "localizacao": "Campinas/SP",
+    "area": "Desenvolvimento Back-end",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Express",
+      "REST APIs",
+      "PostgreSQL",
+      "Autenticação JWT"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa B",
+        "cargo": "Desenvolvedor Back-end",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Especialista em APIs escaláveis e integrações com serviços cloud."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto ProFuture",
+        "link": "",
+        "descricao": "Projeto acadêmico focado no futuro do trabalho e conexão entre talentos e empresas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Desenvolvimento Back-end"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Desenvolvimento Back-end",
+      "Inovação",
+      "Aprendizado Contínuo"
+    ],
+    "radar": {
+      "ods4": 9,
+      "ods8": 9,
+      "ods9": 7,
+      "ods10": 7
+    }
+  },
+  {
+    "id": 103,
+    "nome": "Carla Menezes",
+    "foto": "",
+    "cargo": "UX/UI Designer",
+    "resumo": "Designer focada em pesquisas com usuários e prototipação rápida.",
+    "localizacao": "Curitiba/PR",
+    "area": "Design UX/UI",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Design Systems",
+      "Prototipagem",
+      "Pesquisa com Usuários"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa C",
+        "cargo": "UX/UI Designer",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Designer focada em pesquisas com usuários e prototipação rápida."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto ProFuture",
+        "link": "",
+        "descricao": "Projeto acadêmico focado no futuro do trabalho e conexão entre talentos e empresas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Design UX/UI"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Design UX/UI",
+      "Inovação",
+      "Aprendizado Contínuo"
+    ],
+    "radar": {
+      "ods4": 9,
+      "ods8": 7,
+      "ods9": 7,
+      "ods10": 8
+    }
+  },
+  {
+    "id": 104,
+    "nome": "Diego Ferreira",
+    "foto": "",
+    "cargo": "Engenheiro DevOps",
+    "resumo": "Responsável por pipelines de CI/CD e infraestrutura automatizada.",
+    "localizacao": "Curitiba/PR",
+    "area": "DevOps",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "GitHub Actions",
+      "Monitoramento"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa D",
+        "cargo": "Engenheiro DevOps",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Responsável por pipelines de CI/CD e infraestrutura automatizada."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto ProFuture",
+        "link": "",
+        "descricao": "Projeto acadêmico focado no futuro do trabalho e conexão entre talentos e empresas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em DevOps"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "DevOps",
+      "Inovação",
+      "Aprendizado Contínuo"
+    ],
+    "radar": {
+      "ods4": 8,
+      "ods8": 9,
+      "ods9": 9,
+      "ods10": 7
+    }
+  },
+  {
+    "id": 105,
+    "nome": "Eduarda Martins",
+    "foto": "",
+    "cargo": "Cientista de Dados",
+    "resumo": "Atua com modelagem estatística e machine learning aplicado a negócios.",
+    "localizacao": "São Paulo/SP",
+    "area": "Ciência de Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "Machine Learning",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa E",
+        "cargo": "Cientista de Dados",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Atua com modelagem estatística e machine learning aplicado a negócios."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto ProFuture",
+        "link": "",
+        "descricao": "Projeto acadêmico focado no futuro do trabalho e conexão entre talentos e empresas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Ciência de Dados"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Ciência de Dados",
+      "Inovação",
+      "Aprendizado Contínuo"
+    ],
+    "radar": {
+      "ods4": 8,
+      "ods8": 8,
+      "ods9": 10,
+      "ods10": 6
+    }
+  },
+  {
+    "id": 106,
+    "nome": "Felipe Ramos",
+    "foto": "",
+    "cargo": "Engenheiro de Software Full Stack",
+    "resumo": "Desenvolve soluções ponta a ponta, do banco de dados ao front-end.",
+    "localizacao": "Curitiba/PR",
+    "area": "Engenharia de Software",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "REST APIs",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa F",
+        "cargo": "Engenheiro de Software Full Stack",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Desenvolve soluções ponta a ponta, do banco de dados ao front-end."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto ProFuture",
+        "link": "",
+        "descricao": "Projeto acadêmico focado no futuro do trabalho e conexão entre talentos e empresas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Engenharia de Software"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Engenharia de Software",
+      "Inovação",
+      "Aprendizado Contínuo"
+    ],
+    "radar": {
+      "ods4": 7,
+      "ods8": 10,
+      "ods9": 9,
+      "ods10": 8
+    }
+  },
+  {
+    "id": 107,
+    "nome": "Gabriela Nunes",
+    "foto": "",
+    "cargo": "Product Manager",
+    "resumo": "Lidera discovery e priorização de backlog com foco em valor de negócio.",
+    "localizacao": "São Paulo/SP",
+    "area": "Gestão de Produto",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "REST APIs",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa G",
+        "cargo": "Product Manager",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Lidera discovery e priorização de backlog com foco em valor de negócio."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto ProFuture",
+        "link": "",
+        "descricao": "Projeto acadêmico focado no futuro do trabalho e conexão entre talentos e empresas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Gestão de Produto"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Gestão de Produto",
+      "Inovação",
+      "Aprendizado Contínuo"
+    ],
+    "radar": {
+      "ods4": 9,
+      "ods8": 8,
+      "ods9": 7,
+      "ods10": 7
+    }
+  },
+  {
+    "id": 108,
+    "nome": "Henrique Oliveira",
+    "foto": "",
+    "cargo": "Desenvolvedor Mobile",
+    "resumo": "Focado em apps híbridos e nativos com alta performance.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento Mobile",
+    "habilidadesTecnicas": [
+      "React Native",
+      "Expo",
+      "Integração com APIs",
+      "Publicação em Lojas"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa H",
+        "cargo": "Desenvolvedor Mobile",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Focado em apps híbridos e nativos com alta performance."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto ProFuture",
+        "link": "",
+        "descricao": "Projeto acadêmico focado no futuro do trabalho e conexão entre talentos e empresas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Desenvolvimento Mobile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Desenvolvimento Mobile",
+      "Inovação",
+      "Aprendizado Contínuo"
+    ],
+    "radar": {
+      "ods4": 9,
+      "ods8": 8,
+      "ods9": 9,
+      "ods10": 7
+    }
+  },
+  {
+    "id": 109,
+    "nome": "Isabela Costa",
+    "foto": "",
+    "cargo": "QA Engineer",
+    "resumo": "Responsável por estratégias de testes automatizados e garantia de qualidade.",
+    "localizacao": "Campinas/SP",
+    "area": "Qualidade de Software",
+    "habilidadesTecnicas": [
+      "Testes Automatizados",
+      "Jest",
+      "Cypress",
+      "Planejamento de Testes"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa I",
+        "cargo": "QA Engineer",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Responsável por estratégias de testes automatizados e garantia de qualidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto ProFuture",
+        "link": "",
+        "descricao": "Projeto acadêmico focado no futuro do trabalho e conexão entre talentos e empresas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Qualidade de Software"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Qualidade de Software",
+      "Inovação",
+      "Aprendizado Contínuo"
+    ],
+    "radar": {
+      "ods4": 9,
+      "ods8": 7,
+      "ods9": 8,
+      "ods10": 7
+    }
+  },
+  {
+    "id": 110,
+    "nome": "João Pedro Silveira",
+    "foto": "",
+    "cargo": "Analista de Sistemas",
+    "resumo": "Atua na análise de requisitos e documentação técnica de projetos.",
+    "localizacao": "Campinas/SP",
+    "area": "Análise de Sistemas",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "REST APIs",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa J",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Atua na análise de requisitos e documentação técnica de projetos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto ProFuture",
+        "link": "",
+        "descricao": "Projeto acadêmico focado no futuro do trabalho e conexão entre talentos e empresas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Análise de Sistemas"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Análise de Sistemas",
+      "Inovação",
+      "Aprendizado Contínuo"
+    ],
+    "radar": {
+      "ods4": 8,
+      "ods8": 7,
+      "ods9": 7,
+      "ods10": 6
+    }
+  },
+  {
+    "id": 111,
+    "nome": "Karen Yamamoto",
+    "foto": "",
+    "cargo": "Data Engineer",
+    "resumo": "Constrói pipelines de dados confiáveis e escaláveis.",
+    "localizacao": "Campinas/SP",
+    "area": "Engenharia de Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "Machine Learning",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa K",
+        "cargo": "Data Engineer",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Constrói pipelines de dados confiáveis e escaláveis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto ProFuture",
+        "link": "",
+        "descricao": "Projeto acadêmico focado no futuro do trabalho e conexão entre talentos e empresas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Engenharia de Dados"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Engenharia de Dados",
+      "Inovação",
+      "Aprendizado Contínuo"
+    ],
+    "radar": {
+      "ods4": 10,
+      "ods8": 7,
+      "ods9": 7,
+      "ods10": 6
+    }
+  },
+  {
+    "id": 112,
+    "nome": "Lucas Andrade",
+    "foto": "",
+    "cargo": "Desenvolvedor Full Stack",
+    "resumo": "Atua no desenvolvimento de aplicações web completas.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento Full Stack",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "REST APIs",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa L",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Atua no desenvolvimento de aplicações web completas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto ProFuture",
+        "link": "",
+        "descricao": "Projeto acadêmico focado no futuro do trabalho e conexão entre talentos e empresas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Desenvolvimento Full Stack"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Desenvolvimento Full Stack",
+      "Inovação",
+      "Aprendizado Contínuo"
+    ],
+    "radar": {
+      "ods4": 9,
+      "ods8": 9,
+      "ods9": 10,
+      "ods10": 9
+    }
+  },
+  {
+    "id": 113,
+    "nome": "Mariana Rocha",
+    "foto": "",
+    "cargo": "Scrum Master",
+    "resumo": "Facilita cerimônias ágeis e remoção de impedimentos do time.",
+    "localizacao": "Curitiba/PR",
+    "area": "Metodologias Ágeis",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "REST APIs",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa M",
+        "cargo": "Scrum Master",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Facilita cerimônias ágeis e remoção de impedimentos do time."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto ProFuture",
+        "link": "",
+        "descricao": "Projeto acadêmico focado no futuro do trabalho e conexão entre talentos e empresas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Metodologias Ágeis"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Metodologias Ágeis",
+      "Inovação",
+      "Aprendizado Contínuo"
+    ],
+    "radar": {
+      "ods4": 9,
+      "ods8": 7,
+      "ods9": 7,
+      "ods10": 7
+    }
+  },
+  {
+    "id": 114,
+    "nome": "Nicolas Teixeira",
+    "foto": "",
+    "cargo": "Engenheiro de Machine Learning",
+    "resumo": "Focado em modelos de recomendação e predição.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Machine Learning",
+    "habilidadesTecnicas": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "Machine Learning",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa N",
+        "cargo": "Engenheiro de Machine Learning",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Focado em modelos de recomendação e predição."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto ProFuture",
+        "link": "",
+        "descricao": "Projeto acadêmico focado no futuro do trabalho e conexão entre talentos e empresas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Machine Learning"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Machine Learning",
+      "Inovação",
+      "Aprendizado Contínuo"
+    ],
+    "radar": {
+      "ods4": 8,
+      "ods8": 7,
+      "ods9": 9,
+      "ods10": 9
+    }
+  },
+  {
+    "id": 115,
+    "nome": "Olivia Barbosa",
+    "foto": "",
+    "cargo": "Analista de Suporte",
+    "resumo": "Atendimento técnico e monitoramento de ambientes produtivos.",
+    "localizacao": "São Paulo/SP",
+    "area": "Suporte Técnico",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "REST APIs",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa O",
+        "cargo": "Analista de Suporte",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Atendimento técnico e monitoramento de ambientes produtivos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto ProFuture",
+        "link": "",
+        "descricao": "Projeto acadêmico focado no futuro do trabalho e conexão entre talentos e empresas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Suporte Técnico"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Suporte Técnico",
+      "Inovação",
+      "Aprendizado Contínuo"
+    ],
+    "radar": {
+      "ods4": 7,
+      "ods8": 7,
+      "ods9": 6,
+      "ods10": 6
+    }
+  },
+  {
+    "id": 116,
+    "nome": "Pedro Henrique Alves",
+    "foto": "",
+    "cargo": "Desenvolvedor Front-end",
+    "resumo": "Cria interfaces modernas com foco em performance e SEO.",
+    "localizacao": "Campinas/SP",
+    "area": "Desenvolvimento Front-end",
+    "habilidadesTecnicas": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "React",
+      "TailwindCSS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa P",
+        "cargo": "Desenvolvedor Front-end",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Cria interfaces modernas com foco em performance e SEO."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto ProFuture",
+        "link": "",
+        "descricao": "Projeto acadêmico focado no futuro do trabalho e conexão entre talentos e empresas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Desenvolvimento Front-end"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Desenvolvimento Front-end",
+      "Inovação",
+      "Aprendizado Contínuo"
+    ],
+    "radar": {
+      "ods4": 9,
+      "ods8": 8,
+      "ods9": 8,
+      "ods10": 7
+    }
+  },
+  {
+    "id": 117,
+    "nome": "Queila Santos",
+    "foto": "",
+    "cargo": "UX Researcher",
+    "resumo": "Conduz estudos com usuários e testes de usabilidade.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Pesquisa em UX",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Design Systems",
+      "Prototipagem",
+      "Pesquisa com Usuários"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Q",
+        "cargo": "UX Researcher",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Conduz estudos com usuários e testes de usabilidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto ProFuture",
+        "link": "",
+        "descricao": "Projeto acadêmico focado no futuro do trabalho e conexão entre talentos e empresas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Pesquisa em UX"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Pesquisa em UX",
+      "Inovação",
+      "Aprendizado Contínuo"
+    ],
+    "radar": {
+      "ods4": 8,
+      "ods8": 7,
+      "ods9": 6,
+      "ods10": 8
+    }
+  },
+  {
+    "id": 118,
+    "nome": "Rafael Moreira",
+    "foto": "",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Atua em sistemas distribuídos e de alta disponibilidade.",
+    "localizacao": "São Paulo/SP",
+    "area": "Engenharia de Software",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "REST APIs",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa R",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Atua em sistemas distribuídos e de alta disponibilidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto ProFuture",
+        "link": "",
+        "descricao": "Projeto acadêmico focado no futuro do trabalho e conexão entre talentos e empresas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Engenharia de Software"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Engenharia de Software",
+      "Inovação",
+      "Aprendizado Contínuo"
+    ],
+    "radar": {
+      "ods4": 9,
+      "ods8": 9,
+      "ods9": 8,
+      "ods10": 8
+    }
+  },
+  {
+    "id": 119,
+    "nome": "Sabrina Falcão",
+    "foto": "",
+    "cargo": "Analista de Produto",
+    "resumo": "Responsável por métricas de uso e evolução de funcionalidades.",
+    "localizacao": "Curitiba/PR",
+    "area": "Gestão de Produto",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "REST APIs",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa S",
+        "cargo": "Analista de Produto",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Responsável por métricas de uso e evolução de funcionalidades."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto ProFuture",
+        "link": "",
+        "descricao": "Projeto acadêmico focado no futuro do trabalho e conexão entre talentos e empresas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Gestão de Produto"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Gestão de Produto",
+      "Inovação",
+      "Aprendizado Contínuo"
+    ],
+    "radar": {
+      "ods4": 8,
+      "ods8": 7,
+      "ods9": 7,
+      "ods10": 6
+    }
+  },
+  {
+    "id": 120,
+    "nome": "Thiago Cunha",
+    "foto": "",
+    "cargo": "Engenheiro de Nuvem",
+    "resumo": "Trabalha com arquiteturas em múltiplas clouds e automação.",
+    "localizacao": "Curitiba/PR",
+    "area": "Cloud Computing",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Infraestrutura como Código",
+      "Terraform",
+      "Linux"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa T",
+        "cargo": "Engenheiro de Nuvem",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Trabalha com arquiteturas em múltiplas clouds e automação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto ProFuture",
+        "link": "",
+        "descricao": "Projeto acadêmico focado no futuro do trabalho e conexão entre talentos e empresas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Cloud Computing"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cloud Computing",
+      "Inovação",
+      "Aprendizado Contínuo"
+    ],
+    "radar": {
+      "ods4": 8,
+      "ods8": 8,
+      "ods9": 9,
+      "ods10": 7
+    }
+  },
+  {
+    "id": 121,
+    "nome": "Ursula Pires",
+    "foto": "",
+    "cargo": "Desenvolvedora Back-end",
+    "resumo": "Focada em microsserviços e APIs REST.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento Back-end",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Express",
+      "REST APIs",
+      "PostgreSQL",
+      "Autenticação JWT"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa U",
+        "cargo": "Desenvolvedora Back-end",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Focada em microsserviços e APIs REST."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto ProFuture",
+        "link": "",
+        "descricao": "Projeto acadêmico focado no futuro do trabalho e conexão entre talentos e empresas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Desenvolvimento Back-end"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Desenvolvimento Back-end",
+      "Inovação",
+      "Aprendizado Contínuo"
+    ],
+    "radar": {
+      "ods4": 9,
+      "ods8": 9,
+      "ods9": 8,
+      "ods10": 8
+    }
+  },
+  {
+    "id": 122,
+    "nome": "Victor Hugo Almeida",
+    "foto": "",
+    "cargo": "Arquiteto de Software",
+    "resumo": "Define padrões de arquitetura e governança técnica.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Arquitetura de Software",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "REST APIs",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa V",
+        "cargo": "Arquiteto de Software",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Define padrões de arquitetura e governança técnica."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto ProFuture",
+        "link": "",
+        "descricao": "Projeto acadêmico focado no futuro do trabalho e conexão entre talentos e empresas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Arquitetura de Software"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Arquitetura de Software",
+      "Inovação",
+      "Aprendizado Contínuo"
+    ],
+    "radar": {
+      "ods4": 8,
+      "ods8": 7,
+      "ods9": 8,
+      "ods10": 7
+    }
+  },
+  {
+    "id": 123,
+    "nome": "William Ribeiro",
+    "foto": "",
+    "cargo": "Desenvolvedor Full Stack",
+    "resumo": "Constrói APIs e interfaces integradas a serviços externos.",
+    "localizacao": "Campinas/SP",
+    "area": "Desenvolvimento Full Stack",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "REST APIs",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa W",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Constrói APIs e interfaces integradas a serviços externos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto ProFuture",
+        "link": "",
+        "descricao": "Projeto acadêmico focado no futuro do trabalho e conexão entre talentos e empresas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Desenvolvimento Full Stack"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Desenvolvimento Full Stack",
+      "Inovação",
+      "Aprendizado Contínuo"
+    ],
+    "radar": {
+      "ods4": 9,
+      "ods8": 9,
+      "ods9": 9,
+      "ods10": 8
+    }
+  },
+  {
+    "id": 124,
+    "nome": "Ximena Duarte",
+    "foto": "",
+    "cargo": "Engenheira de Dados",
+    "resumo": "Modelagem de dados analíticos e governança de dados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Engenharia de Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "Machine Learning",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Engenheira de Dados",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Modelagem de dados analíticos e governança de dados."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto ProFuture",
+        "link": "",
+        "descricao": "Projeto acadêmico focado no futuro do trabalho e conexão entre talentos e empresas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Engenharia de Dados"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Engenharia de Dados",
+      "Inovação",
+      "Aprendizado Contínuo"
+    ],
+    "radar": {
+      "ods4": 8,
+      "ods8": 8,
+      "ods9": 8,
+      "ods10": 7
+    }
+  },
+  {
+    "id": 125,
+    "nome": "Yara Monteiro",
+    "foto": "",
+    "cargo": "Desenvolvedora Mobile",
+    "resumo": "Focada em experiência mobile e integrações com hardware.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento Mobile",
+    "habilidadesTecnicas": [
+      "React Native",
+      "Expo",
+      "Integração com APIs",
+      "Publicação em Lojas"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Y",
+        "cargo": "Desenvolvedora Mobile",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Focada em experiência mobile e integrações com hardware."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto ProFuture",
+        "link": "",
+        "descricao": "Projeto acadêmico focado no futuro do trabalho e conexão entre talentos e empresas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Desenvolvimento Mobile"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Desenvolvimento Mobile",
+      "Inovação",
+      "Aprendizado Contínuo"
+    ],
+    "radar": {
+      "ods4": 9,
+      "ods8": 8,
+      "ods9": 8,
+      "ods10": 8
+    }
+  },
+  {
+    "id": 126,
+    "nome": "Zeca Albuquerque",
+    "foto": "",
+    "cargo": "Engenheiro de Observabilidade",
+    "resumo": "Responsável por métricas, logs e tracing para garantir a saúde das aplicações.",
+    "localizacao": "São Paulo/SP",
+    "area": "Observabilidade",
+    "habilidadesTecnicas": [
+      "Prometheus",
+      "Grafana",
+      "Elastic Stack",
+      "Linux",
+      "Shell Script"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resolução de Problemas",
+      "Pensamento Analítico",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Z",
+        "cargo": "Engenheiro de Observabilidade",
+        "inicio": "2021-03",
+        "fim": "Atual",
+        "descricao": "Implementação de dashboards, alertas e práticas de observabilidade em ambientes distribuídos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Computação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Observabilidade",
+        "link": "",
+        "descricao": "Criação de uma stack de monitoramento para times de desenvolvimento e operações."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Observabilidade e SRE"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "SRE",
+      "Monitoramento",
+      "Plataformas Escaláveis"
+    ],
+    "radar": {
+      "ods4": 8,
+      "ods8": 9,
+      "ods9": 9,
+      "ods10": 7
+    }
+  },
+  {
+    "id": 127,
+    "nome": "Brenda Carvalho",
+    "foto": "",
+    "cargo": "Engenheira de Qualidade de Dados",
+    "resumo": "Garante a consistência, integridade e confiabilidade dos dados usados pelos times.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Qualidade de Dados",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Python",
+      "Data Validation",
+      "ETL",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Organização",
+      "Atenção a Detalhes",
+      "Comunicação",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa DataPlus",
+        "cargo": "Engenheira de Qualidade de Dados",
+        "inicio": "2020-06",
+        "fim": "Atual",
+        "descricao": "Responsável por políticas de qualidade de dados e validações em pipelines analíticos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitor de Qualidade de Dados",
+        "link": "",
+        "descricao": "Dashboard para acompanhar qualidade de dados em tempo real."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Governança de Dados"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Governança de Dados",
+      "BI",
+      "DataOps"
+    ],
+    "radar": {
+      "ods4": 9,
+      "ods8": 8,
+      "ods9": 7,
+      "ods10": 8
+    }
+  },
+  {
+    "id": 128,
+    "nome": "Caio Moretti",
+    "foto": "",
+    "cargo": "Desenvolvedor de Integrações",
+    "resumo": "Atua conectando sistemas legados e modernos através de APIs e filas de mensagens.",
+    "localizacao": "Curitiba/PR",
+    "area": "Integrações",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "REST APIs",
+      "RabbitMQ",
+      "Kafka",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em Equipe",
+      "Resiliência",
+      "Capacidade de Aprendizado"
+    ],
+    "experiencias": [
+      {
+        "empresa": "ConectaTech",
+        "cargo": "Desenvolvedor de Integrações",
+        "inicio": "2019-09",
+        "fim": "Atual",
+        "descricao": "Responsável por integrações entre ERPs, CRMs e plataformas SaaS."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Hub de Integração",
+        "link": "",
+        "descricao": "Plataforma central para integrações entre sistemas internos e parceiros."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Arquitetura de Integrações"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Integrações",
+      "Microserviços",
+      "Mensageria"
+    ],
+    "radar": {
+      "ods4": 8,
+      "ods8": 9,
+      "ods9": 8,
+      "ods10": 7
+    }
+  },
+  {
+    "id": 129,
+    "nome": "Diana Lopes",
+    "foto": "",
+    "cargo": "Tech Lead Front-end",
+    "resumo": "Lidera times de front-end garantindo boas práticas e experiência consistente.",
+    "localizacao": "São Paulo/SP",
+    "area": "Liderança Técnica",
+    "habilidadesTecnicas": [
+      "React",
+      "TypeScript",
+      "Design Systems",
+      "Testes de Interface",
+      "Performance Web"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Mentoria",
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "FrontMasters",
+        "cargo": "Tech Lead Front-end",
+        "inicio": "2018-02",
+        "fim": "Atual",
+        "descricao": "Definição de padrões, revisão de código e apoio ao desenvolvimento de carreira do time."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "FIAP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Design System Corporativo",
+        "link": "",
+        "descricao": "Biblioteca de componentes reutilizáveis para vários produtos da empresa."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Liderança Técnica Front-end"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Front-end",
+      "Liderança",
+      "Design Systems"
+    ],
+    "radar": {
+      "ods4": 10,
+      "ods8": 9,
+      "ods9": 8,
+      "ods10": 9
+    }
+  },
+  {
+    "id": 130,
+    "nome": "Enzo Martins",
+    "foto": "",
+    "cargo": "Engenheiro de Plataforma",
+    "resumo": "Cria plataformas internas para acelerar o trabalho de outros desenvolvedores.",
+    "localizacao": "Campinas/SP",
+    "area": "Plataforma",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "Helm",
+      "CI/CD",
+      "GitOps",
+      "Cloud"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Colaboração",
+      "Pensamento Sistêmico",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "PlatformOne",
+        "cargo": "Engenheiro de Plataforma",
+        "inicio": "2020-05",
+        "fim": "Atual",
+        "descricao": "Constrói ferramentas internas para padronizar deploys e monitoramento."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Portal do Desenvolvedor Interno",
+        "link": "",
+        "descricao": "Plataforma com templates, pipelines e documentação para novos serviços."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Engenharia de Plataforma"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Platform Engineering",
+      "DevOps",
+      "Cloud"
+    ],
+    "radar": {
+      "ods4": 8,
+      "ods8": 9,
+      "ods9": 10,
+      "ods10": 7
+    }
+  },
+  {
+    "id": 131,
+    "nome": "Fernanda Reis",
+    "foto": "",
+    "cargo": "Especialista em Acessibilidade Digital",
+    "resumo": "Ajuda times a criarem produtos acessíveis para diferentes perfis de usuários.",
+    "localizacao": "São Paulo/SP",
+    "area": "Acessibilidade",
+    "habilidadesTecnicas": [
+      "WCAG",
+      "HTML Semântico",
+      "Ferramentas de Leitura de Tela",
+      "Testes de Acessibilidade",
+      "Design Inclusivo"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Didática",
+      "Comunicação",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "InclusiveTech",
+        "cargo": "Especialista em Acessibilidade Digital",
+        "inicio": "2019-01",
+        "fim": "Atual",
+        "descricao": "Audita interfaces e orienta times para melhorar a inclusão digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas para Internet",
+        "instituicao": "FIAP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa de Acessibilidade Interna",
+        "link": "",
+        "descricao": "Treinamentos e revisões de produtos com foco em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Acessibilidade Web"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade",
+      "Inclusão Digital",
+      "UX"
+    ],
+    "radar": {
+      "ods4": 10,
+      "ods8": 8,
+      "ods9": 7,
+      "ods10": 10
+    }
+  },
+  {
+    "id": 132,
+    "nome": "Gustavo Peixoto",
+    "foto": "",
+    "cargo": "Engenheiro de Segurança da Informação",
+    "resumo": "Trabalha com proteção de aplicações, dados e infraestrutura.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Segurança da Informação",
+    "habilidadesTecnicas": [
+      "Pentest",
+      "OWASP",
+      "Hardening",
+      "SIEM",
+      "Criptografia"
+    ],
+    "softSkills": [
+      "Atenção a Detalhes",
+      "Pensamento Crítico",
+      "Comunicação",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "SecureLabs",
+        "cargo": "Engenheiro de Segurança da Informação",
+        "inicio": "2018-08",
+        "fim": "Atual",
+        "descricao": "Responsável por testes de segurança e revisão de arquiteturas sensíveis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Segurança da Informação",
+        "instituicao": "FIAP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa de Segurança Aplicada",
+        "link": "",
+        "descricao": "Implementação de práticas de segurança em todo o ciclo de desenvolvimento."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Segurança da Informação"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "AppSec",
+      "DevSecOps",
+      "Segurança em Cloud"
+    ],
+    "radar": {
+      "ods4": 8,
+      "ods8": 9,
+      "ods9": 8,
+      "ods10": 7
+    }
+  },
+  {
+    "id": 133,
+    "nome": "Helena Prado",
+    "foto": "",
+    "cargo": "Analista de Comunidade Técnica",
+    "resumo": "Constrói comunidades internas e externas em torno de tecnologia.",
+    "localizacao": "Curitiba/PR",
+    "area": "Comunidade e DevRel",
+    "habilidadesTecnicas": [
+      "Git",
+      "GitHub",
+      "Documentação Técnica",
+      "Apresentações",
+      "Eventos Técnicos"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia",
+      "Oratória",
+      "Relacionamento Interpessoal"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DevConnect",
+        "cargo": "Analista de Comunidade Técnica",
+        "inicio": "2021-01",
+        "fim": "Atual",
+        "descricao": "Organiza eventos, escreve conteúdos e conecta desenvolvedores à empresa."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa de Comunidade Técnica",
+        "link": "",
+        "descricao": "Criação de meetups, talks e canais de suporte para desenvolvedores."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Developer Relations"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "DevRel",
+      "Comunidade",
+      "Conteúdo Técnico"
+    ],
+    "radar": {
+      "ods4": 10,
+      "ods8": 8,
+      "ods9": 7,
+      "ods10": 9
+    }
+  },
+  {
+    "id": 134,
+    "nome": "Igor Vasconcelos",
+    "foto": "",
+    "cargo": "Desenvolvedor de Ferramentas Internas",
+    "resumo": "Cria ferramentas para automatizar rotinas repetitivas dos times.",
+    "localizacao": "São Paulo/SP",
+    "area": "Ferramentas Internas",
+    "habilidadesTecnicas": [
+      "Python",
+      "Node.js",
+      "Automação de Processos",
+      "APIs Internas",
+      "Banco de Dados"
+    ],
+    "softSkills": [
+      "Curiosidade",
+      "Resolução de Problemas",
+      "Comunicação",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Toolbox Corp",
+        "cargo": "Desenvolvedor de Ferramentas Internas",
+        "inicio": "2019-04",
+        "fim": "Atual",
+        "descricao": "Desenvolve scripts, bots e painéis internos para otimizar processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Suite de Ferramentas Internas",
+        "link": "",
+        "descricao": "Coleção de automações que reduziu tarefas manuais recorrentes."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Automação de Processos"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Automação",
+      "Ferramentas Internas",
+      "Produtividade"
+    ],
+    "radar": {
+      "ods4": 8,
+      "ods8": 9,
+      "ods9": 8,
+      "ods10": 7
+    }
+  },
+  {
+    "id": 135,
+    "nome": "Júlia Serra",
+    "foto": "",
+    "cargo": "Especialista em Experiência do Colaborador",
+    "resumo": "Focada em criar jornadas de desenvolvimento e engajamento dentro das empresas.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "People & Culture",
+    "habilidadesTecnicas": [
+      "People Analytics",
+      "Desenvolvimento de Carreira",
+      "Pesquisas de Clima",
+      "Onboarding",
+      "Comunicação Interna"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Escuta Ativa",
+      "Comunicação",
+      "Colaboração"
+    ],
+    "experiencias": [
+      {
+        "empresa": "PeopleFirst",
+        "cargo": "Especialista em Experiência do Colaborador",
+        "inicio": "2020-02",
+        "fim": "Atual",
+        "descricao": "Desenvolve programas de carreira, feedback e reconhecimento para colaboradores."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Gestão de Recursos Humanos",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Trilha de Evolução de Carreira",
+        "link": "",
+        "descricao": "Programa estruturado de desenvolvimento de competências para diferentes níveis."
+      }
+    ],
+    "certificacoes": [
+      "Certificação em People Experience"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Experiência do Colaborador",
+      "Desenvolvimento de Carreira",
+      "Cultura Organizacional"
+    ],
+    "radar": {
+      "ods4": 10,
+      "ods8": 10,
+      "ods9": 7,
+      "ods10": 10
+    }
+  },
+  {
+    "id": 1,
+    "nome": "usuario",
+    "foto": "https://ui-avatars.com/api/?name=usuario&background=0f172a&color=facc15",
+    "cargo": "Desenvolvedor Frontend",
+    "resumo": "sou um desenvolvedor frontend",
+    "localizacao": "Brasil",
+    "area": "Em transição",
+    "habilidadesTecnicas": [
+      "Desenvolvimento Frontend (React)",
+      "Desenvolvimento Backend (Node.js/Express)",
+      "Engenharia de Dados"
+    ],
+    "softSkills": [
+      "Boa comunicação",
+      "Bom trabalho em equipe",
+      "Resiliente"
+    ],
+    "experiencias": [
+      {
+        "cargo": "Desenvolvedor Frontend",
+        "empresa": "B3",
+        "inicio": "2023",
+        "fim": "2025",
+        "descricao": "Trabalho com o sistema operacional dos empregados"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": "2026"
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "ProFuture",
+        "descricao": "rede de comunicação empresa-profissional"
+      },
+      {
+        "titulo": "PassaBola",
+        "descricao": "sistema de gerenciamento de campeonato"
+      }
+    ],
+    "certificacoes": [
+      "Certificação em Observabilidade e SRE"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Ingles",
+        "nivel": "Intermediario"
+      },
+      {
+        "idioma": "Portugues",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Mongol",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial (IA)",
+      "Machine learning",
+      "Línguas"
+    ],
+    "radar": {
+      "ods4": 5,
+      "ods8": 5,
+      "ods9": 5,
+      "ods10": 5
+    }
+  },
+  {
+    "id": 1,
+    "nome": "usuario",
+    "foto": "https://ui-avatars.com/api/?name=usuario&background=0f172a&color=facc15",
+    "cargo": "Profissional do Futuro",
+    "resumo": "",
+    "localizacao": "Brasil",
+    "area": "Em transição",
+    "habilidadesTecnicas": [],
+    "softSkills": [],
+    "experiencias": [],
+    "formacao": [],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [],
+    "areaInteresses": [],
+    "radar": {
+      "ods4": 5,
+      "ods8": 5,
+      "ods9": 5,
+      "ods10": 5
+    }
+  }
+]

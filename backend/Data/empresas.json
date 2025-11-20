@@ -1,0 +1,834 @@
+[
+  {
+    "id": 1,
+    "nome": "TechNova",
+    "site": "https://www.technova.com.br",
+    "telefone": "(11) 4000-0001",
+    "localizacao": "São Paulo/SP",
+    "sobre": "Soluções digitais focadas em melhorar a experiência do usuário.",
+    "logo": "",
+    "posts": [],
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Desenvolvedor(a) de Software",
+        "descricao": "Atuar no desenvolvimento e manutenção de soluções internas.",
+        "competencias": "Experiência prévia na área e boa comunicação.",
+        "salario": "R$8000",
+        "beneficios": "plano de saúde\nvale refeição",
+        "modalidade": "híbrido",
+        "cargaHoraria": "40h semanais",
+        "localizacao": "Curitiba/PR",
+        "hardSkills": [
+          "Desenvolvimento Frontend (React)",
+          "JavaScript (ES6+)",
+          "HTML/CSS"
+        ],
+        "candidatos": [
+          {
+            "profissionalId": 1,
+            "nome": "carlos",
+            "ts": 1763402824253
+          }
+        ]
+      }
+    ],
+    "hardSkillsInteresse": [
+      "UX/UI Design",
+      "Figma",
+      "Prototipagem"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "AgroSmart",
+    "site": "https://www.agrosmart.com.br",
+    "telefone": "(11) 4000-0003",
+    "localizacao": "Curitiba/PR",
+    "sobre": "Empresa em crescimento que aposta em inovação e dados.",
+    "logo": "",
+    "posts": [],
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Desenvolvedor(a) de Software",
+        "descricao": "Atuar no desenvolvimento e manutenção de soluções internas.",
+        "competencias": "Experiência prévia na área e boa comunicação.",
+        "salario": "R$8000",
+        "beneficios": "plano de saúde\nvale refeição",
+        "modalidade": "híbrido",
+        "cargaHoraria": "40h semanais",
+        "localizacao": "Rio de Janeiro/RJ",
+        "hardSkills": [
+          "DevOps & CI/CD",
+          "Docker",
+          "Kubernetes"
+        ]
+      }
+    ],
+    "hardSkillsInteresse": [
+      "Análise de Dados (Python/Pandas)",
+      "SQL",
+      "Visualização de Dados"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "EduFuture",
+    "site": "https://www.edufuture.com.br",
+    "telefone": "(11) 4000-0004",
+    "localizacao": "Belo Horizonte/MG",
+    "sobre": "Empresa em crescimento que aposta em inovação e dados.",
+    "logo": "",
+    "posts": [],
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Desenvolvedor(a) de Software",
+        "descricao": "Atuar no desenvolvimento e manutenção de soluções internas.",
+        "competencias": "Experiência prévia na área e boa comunicação.",
+        "salario": "R$8000",
+        "beneficios": "plano de saúde\nvale refeição",
+        "modalidade": "híbrido",
+        "cargaHoraria": "40h semanais",
+        "localizacao": "Curitiba/PR",
+        "hardSkills": [
+          "Análise de Dados (Python/Pandas)",
+          "SQL",
+          "Visualização de Dados"
+        ]
+      }
+    ],
+    "hardSkillsInteresse": [
+      "Cloud Computing (AWS)",
+      "Infraestrutura como Código",
+      "Monitoração de Sistemas"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "HealthTrack",
+    "site": "https://www.healthtrack.com.br",
+    "telefone": "(11) 4000-0005",
+    "localizacao": "Campinas/SP",
+    "sobre": "Time multidisciplinar com foco em impacto real no mercado.",
+    "logo": "",
+    "posts": [],
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Desenvolvedor(a) de Software",
+        "descricao": "Atuar no desenvolvimento e manutenção de soluções internas.",
+        "competencias": "Experiência prévia na área e boa comunicação.",
+        "salario": "R$8000",
+        "beneficios": "plano de saúde\nvale refeição",
+        "modalidade": "híbrido",
+        "cargaHoraria": "40h semanais",
+        "localizacao": "Curitiba/PR",
+        "hardSkills": [
+          "Cloud Computing (AWS)",
+          "Infraestrutura como Código",
+          "Monitoração de Sistemas"
+        ]
+      }
+    ],
+    "hardSkillsInteresse": [
+      "Testes Automatizados (Jest/Cypress)",
+      "QA",
+      "Integração Contínua"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "GreenLog",
+    "site": "https://www.greenlog.com.br",
+    "telefone": "(11) 4000-0006",
+    "localizacao": "Curitiba/PR",
+    "sobre": "Soluções digitais focadas em melhorar a experiência do usuário.",
+    "logo": "",
+    "posts": [],
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Desenvolvedor(a) de Software",
+        "descricao": "Atuar no desenvolvimento e manutenção de soluções internas.",
+        "competencias": "Experiência prévia na área e boa comunicação.",
+        "salario": "R$8000",
+        "beneficios": "plano de saúde\nvale refeição",
+        "modalidade": "híbrido",
+        "cargaHoraria": "40h semanais",
+        "localizacao": "Curitiba/PR",
+        "hardSkills": [
+          "Testes Automatizados (Jest/Cypress)",
+          "QA",
+          "Integração Contínua"
+        ]
+      }
+    ],
+    "hardSkillsInteresse": [
+      "Mobile (React Native)",
+      "Publicação em App Stores",
+      "Integração com APIs"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "CodeWorks",
+    "site": "https://www.codeworks.com.br",
+    "telefone": "(11) 4000-0007",
+    "localizacao": "Campinas/SP",
+    "sobre": "Time multidisciplinar com foco em impacto real no mercado.",
+    "logo": "",
+    "posts": [],
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Desenvolvedor(a) de Software",
+        "descricao": "Atuar no desenvolvimento e manutenção de soluções internas.",
+        "competencias": "Experiência prévia na área e boa comunicação.",
+        "salario": "R$8000",
+        "beneficios": "plano de saúde\nvale refeição",
+        "modalidade": "híbrido",
+        "cargaHoraria": "40h semanais",
+        "localizacao": "Curitiba/PR",
+        "hardSkills": [
+          "Mobile (React Native)",
+          "Publicação em App Stores",
+          "Integração com APIs"
+        ]
+      }
+    ],
+    "hardSkillsInteresse": [
+      "Machine Learning (Python)",
+      "Modelagem Preditiva",
+      "Tratamento de Dados"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "DataMinds",
+    "site": "https://www.dataminds.com.br",
+    "telefone": "(11) 4000-0008",
+    "localizacao": "São Paulo/SP",
+    "sobre": "Start-up focada em soluções de IA para produtividade.",
+    "logo": "",
+    "posts": [],
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Desenvolvedor(a) de Software",
+        "descricao": "Atuar no desenvolvimento e manutenção de soluções internas.",
+        "competencias": "Experiência prévia na área e boa comunicação.",
+        "salario": "R$8000",
+        "beneficios": "plano de saúde\nvale refeição",
+        "modalidade": "híbrido",
+        "cargaHoraria": "40h semanais",
+        "localizacao": "Campinas/SP",
+        "hardSkills": [
+          "Machine Learning (Python)",
+          "Modelagem Preditiva",
+          "Tratamento de Dados"
+        ]
+      }
+    ],
+    "hardSkillsInteresse": [
+      "Arquitetura de Software",
+      "Microserviços",
+      "Boas Práticas (SOLID)"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "CloudBridge",
+    "site": "https://www.cloudbridge.com.br",
+    "telefone": "(11) 4000-0009",
+    "localizacao": "Curitiba/PR",
+    "sobre": "Plataforma de tecnologia voltada para o futuro do trabalho.",
+    "logo": "",
+    "posts": [],
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Desenvolvedor(a) de Software",
+        "descricao": "Atuar no desenvolvimento e manutenção de soluções internas.",
+        "competencias": "Experiência prévia na área e boa comunicação.",
+        "salario": "R$8000",
+        "beneficios": "plano de saúde\nvale refeição",
+        "modalidade": "híbrido",
+        "cargaHoraria": "40h semanais",
+        "localizacao": "Curitiba/PR",
+        "hardSkills": [
+          "Arquitetura de Software",
+          "Microserviços",
+          "Boas Práticas (SOLID)"
+        ]
+      }
+    ],
+    "hardSkillsInteresse": [
+      "Desenvolvimento Backend (Node.js/Express)",
+      "APIs REST",
+      "Banco de Dados SQL"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "UrbanMob",
+    "site": "https://www.urbanmob.com.br",
+    "telefone": "(11) 4000-0010",
+    "localizacao": "São Paulo/SP",
+    "sobre": "Soluções digitais focadas em melhorar a experiência do usuário.",
+    "logo": "",
+    "posts": [],
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Desenvolvedor(a) de Software",
+        "descricao": "Atuar no desenvolvimento e manutenção de soluções internas.",
+        "competencias": "Experiência prévia na área e boa comunicação.",
+        "salario": "R$8000",
+        "beneficios": "plano de saúde\nvale refeição",
+        "modalidade": "híbrido",
+        "cargaHoraria": "40h semanais",
+        "localizacao": "São Paulo/SP",
+        "hardSkills": [
+          "Desenvolvimento Backend (Node.js/Express)",
+          "APIs REST",
+          "Banco de Dados SQL"
+        ]
+      }
+    ],
+    "hardSkillsInteresse": [
+      "Desenvolvimento Frontend (React)",
+      "JavaScript (ES6+)",
+      "HTML/CSS"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "SafeBank",
+    "site": "https://www.safebank.com.br",
+    "telefone": "(11) 4000-0011",
+    "localizacao": "Curitiba/PR",
+    "sobre": "Empresa em crescimento que aposta em inovação e dados.",
+    "logo": "",
+    "posts": [],
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Desenvolvedor(a) de Software",
+        "descricao": "Atuar no desenvolvimento e manutenção de soluções internas.",
+        "competencias": "Experiência prévia na área e boa comunicação.",
+        "salario": "R$8000",
+        "beneficios": "plano de saúde\nvale refeição",
+        "modalidade": "híbrido",
+        "cargaHoraria": "40h semanais",
+        "localizacao": "Curitiba/PR",
+        "hardSkills": [
+          "Desenvolvimento Frontend (React)",
+          "JavaScript (ES6+)",
+          "HTML/CSS"
+        ]
+      }
+    ],
+    "hardSkillsInteresse": [
+      "UX/UI Design",
+      "Figma",
+      "Prototipagem"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "RetailPlus",
+    "site": "https://www.retailplus.com.br",
+    "telefone": "(11) 4000-0012",
+    "localizacao": "Curitiba/PR",
+    "sobre": "Produtos escaláveis com foco em performance e qualidade.",
+    "logo": "",
+    "posts": [],
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Desenvolvedor(a) de Software",
+        "descricao": "Atuar no desenvolvimento e manutenção de soluções internas.",
+        "competencias": "Experiência prévia na área e boa comunicação.",
+        "salario": "R$8000",
+        "beneficios": "plano de saúde\nvale refeição",
+        "modalidade": "híbrido",
+        "cargaHoraria": "40h semanais",
+        "localizacao": "São Paulo/SP",
+        "hardSkills": [
+          "UX/UI Design",
+          "Figma",
+          "Prototipagem"
+        ]
+      }
+    ],
+    "hardSkillsInteresse": [
+      "DevOps & CI/CD",
+      "Docker",
+      "Kubernetes"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "FoodiesHub",
+    "site": "https://www.foodieshub.com.br",
+    "telefone": "(11) 4000-0013",
+    "localizacao": "Campinas/SP",
+    "sobre": "Produtos escaláveis com foco em performance e qualidade.",
+    "logo": "",
+    "posts": [],
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Desenvolvedor(a) de Software",
+        "descricao": "Atuar no desenvolvimento e manutenção de soluções internas.",
+        "competencias": "Experiência prévia na área e boa comunicação.",
+        "salario": "R$8000",
+        "beneficios": "plano de saúde\nvale refeição",
+        "modalidade": "híbrido",
+        "cargaHoraria": "40h semanais",
+        "localizacao": "Campinas/SP",
+        "hardSkills": [
+          "DevOps & CI/CD",
+          "Docker",
+          "Kubernetes"
+        ]
+      }
+    ],
+    "hardSkillsInteresse": [
+      "Análise de Dados (Python/Pandas)",
+      "SQL",
+      "Visualização de Dados"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "SportZone",
+    "site": "https://www.sportzone.com.br",
+    "telefone": "(11) 4000-0014",
+    "localizacao": "Campinas/SP",
+    "sobre": "Plataforma de tecnologia voltada para o futuro do trabalho.",
+    "logo": "",
+    "posts": [],
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Desenvolvedor(a) de Software",
+        "descricao": "Atuar no desenvolvimento e manutenção de soluções internas.",
+        "competencias": "Experiência prévia na área e boa comunicação.",
+        "salario": "R$8000",
+        "beneficios": "plano de saúde\nvale refeição",
+        "modalidade": "híbrido",
+        "cargaHoraria": "40h semanais",
+        "localizacao": "Curitiba/PR",
+        "hardSkills": [
+          "Análise de Dados (Python/Pandas)",
+          "SQL",
+          "Visualização de Dados"
+        ]
+      }
+    ],
+    "hardSkillsInteresse": [
+      "Cloud Computing (AWS)",
+      "Infraestrutura como Código",
+      "Monitoração de Sistemas"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "BuildIt",
+    "site": "https://www.buildit.com.br",
+    "telefone": "(11) 4000-0015",
+    "localizacao": "Campinas/SP",
+    "sobre": "Produtos escaláveis com foco em performance e qualidade.",
+    "logo": "",
+    "posts": [],
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Desenvolvedor(a) de Software",
+        "descricao": "Atuar no desenvolvimento e manutenção de soluções internas.",
+        "competencias": "Experiência prévia na área e boa comunicação.",
+        "salario": "R$8000",
+        "beneficios": "plano de saúde\nvale refeição",
+        "modalidade": "híbrido",
+        "cargaHoraria": "40h semanais",
+        "localizacao": "Curitiba/PR",
+        "hardSkills": [
+          "Cloud Computing (AWS)",
+          "Infraestrutura como Código",
+          "Monitoração de Sistemas"
+        ]
+      }
+    ],
+    "hardSkillsInteresse": [
+      "Testes Automatizados (Jest/Cypress)",
+      "QA",
+      "Integração Contínua"
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "TravelNow",
+    "site": "https://www.travelnow.com.br",
+    "telefone": "(11) 4000-0016",
+    "localizacao": "Campinas/SP",
+    "sobre": "Produtos escaláveis com foco em performance e qualidade.",
+    "logo": "",
+    "posts": [],
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Desenvolvedor(a) de Software",
+        "descricao": "Atuar no desenvolvimento e manutenção de soluções internas.",
+        "competencias": "Experiência prévia na área e boa comunicação.",
+        "salario": "R$8000",
+        "beneficios": "plano de saúde\nvale refeição",
+        "modalidade": "híbrido",
+        "cargaHoraria": "40h semanais",
+        "localizacao": "São Paulo/SP",
+        "hardSkills": [
+          "Testes Automatizados (Jest/Cypress)",
+          "QA",
+          "Integração Contínua"
+        ]
+      }
+    ],
+    "hardSkillsInteresse": [
+      "Mobile (React Native)",
+      "Publicação em App Stores",
+      "Integração com APIs"
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "MediaLab",
+    "site": "https://www.medialab.com.br",
+    "telefone": "(11) 4000-0017",
+    "localizacao": "Campinas/SP",
+    "sobre": "Start-up focada em soluções de IA para produtividade.",
+    "logo": "",
+    "posts": [],
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Desenvolvedor(a) de Software",
+        "descricao": "Atuar no desenvolvimento e manutenção de soluções internas.",
+        "competencias": "Experiência prévia na área e boa comunicação.",
+        "salario": "R$8000",
+        "beneficios": "plano de saúde\nvale refeição",
+        "modalidade": "híbrido",
+        "cargaHoraria": "40h semanais",
+        "localizacao": "Campinas/SP",
+        "hardSkills": [
+          "Mobile (React Native)",
+          "Publicação em App Stores",
+          "Integração com APIs"
+        ]
+      }
+    ],
+    "hardSkillsInteresse": [
+      "Machine Learning (Python)",
+      "Modelagem Preditiva",
+      "Tratamento de Dados"
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "HRConnect",
+    "site": "https://www.hrconnect.com.br",
+    "telefone": "(11) 4000-0018",
+    "localizacao": "Rio de Janeiro/RJ",
+    "sobre": "Start-up focada em soluções de IA para produtividade.",
+    "logo": "",
+    "posts": [],
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Desenvolvedor(a) de Software",
+        "descricao": "Atuar no desenvolvimento e manutenção de soluções internas.",
+        "competencias": "Experiência prévia na área e boa comunicação.",
+        "salario": "R$8000",
+        "beneficios": "plano de saúde\nvale refeição",
+        "modalidade": "híbrido",
+        "cargaHoraria": "40h semanais",
+        "localizacao": "Curitiba/PR",
+        "hardSkills": [
+          "Machine Learning (Python)",
+          "Modelagem Preditiva",
+          "Tratamento de Dados"
+        ]
+      }
+    ],
+    "hardSkillsInteresse": [
+      "Arquitetura de Software",
+      "Microserviços",
+      "Boas Práticas (SOLID)"
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "AutoDrive",
+    "site": "https://www.autodrive.com.br",
+    "telefone": "(11) 4000-0019",
+    "localizacao": "São Paulo/SP",
+    "sobre": "Time multidisciplinar com foco em impacto real no mercado.",
+    "logo": "",
+    "posts": [],
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Desenvolvedor(a) de Software",
+        "descricao": "Atuar no desenvolvimento e manutenção de soluções internas.",
+        "competencias": "Experiência prévia na área e boa comunicação.",
+        "salario": "R$8000",
+        "beneficios": "plano de saúde\nvale refeição",
+        "modalidade": "híbrido",
+        "cargaHoraria": "40h semanais",
+        "localizacao": "Curitiba/PR",
+        "hardSkills": [
+          "Arquitetura de Software",
+          "Microserviços",
+          "Boas Práticas (SOLID)"
+        ]
+      }
+    ],
+    "hardSkillsInteresse": [
+      "Desenvolvimento Backend (Node.js/Express)",
+      "APIs REST",
+      "Banco de Dados SQL"
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "BioCare",
+    "site": "https://www.biocare.com.br",
+    "telefone": "(11) 4000-0020",
+    "localizacao": "Curitiba/PR",
+    "sobre": "Start-up focada em soluções de IA para produtividade.",
+    "logo": "",
+    "posts": [],
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Desenvolvedor(a) de Software",
+        "descricao": "Atuar no desenvolvimento e manutenção de soluções internas.",
+        "competencias": "Experiência prévia na área e boa comunicação.",
+        "salario": "R$8000",
+        "beneficios": "plano de saúde\nvale refeição",
+        "modalidade": "híbrido",
+        "cargaHoraria": "40h semanais",
+        "localizacao": "Belo Horizonte/MG",
+        "hardSkills": [
+          "Desenvolvimento Backend (Node.js/Express)",
+          "APIs REST",
+          "Banco de Dados SQL"
+        ]
+      }
+    ],
+    "hardSkillsInteresse": [
+      "Desenvolvimento Frontend (React)",
+      "JavaScript (ES6+)",
+      "HTML/CSS"
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "GameVerse",
+    "site": "https://www.gameverse.com.br",
+    "telefone": "(11) 4000-0021",
+    "localizacao": "Curitiba/PR",
+    "sobre": "Soluções digitais focadas em melhorar a experiência do usuário.",
+    "logo": "",
+    "posts": [],
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Desenvolvedor(a) de Software",
+        "descricao": "Atuar no desenvolvimento e manutenção de soluções internas.",
+        "competencias": "Experiência prévia na área e boa comunicação.",
+        "salario": "R$8000",
+        "beneficios": "plano de saúde\nvale refeição",
+        "modalidade": "híbrido",
+        "cargaHoraria": "40h semanais",
+        "localizacao": "São Paulo/SP",
+        "hardSkills": [
+          "Desenvolvimento Frontend (React)",
+          "JavaScript (ES6+)",
+          "HTML/CSS"
+        ]
+      }
+    ],
+    "hardSkillsInteresse": [
+      "UX/UI Design",
+      "Figma",
+      "Prototipagem"
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "FinControl",
+    "site": "https://www.fincontrol.com.br",
+    "telefone": "(11) 4000-0022",
+    "localizacao": "Belo Horizonte/MG",
+    "sobre": "Produtos escaláveis com foco em performance e qualidade.",
+    "logo": "",
+    "posts": [],
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Desenvolvedor(a) de Software",
+        "descricao": "Atuar no desenvolvimento e manutenção de soluções internas.",
+        "competencias": "Experiência prévia na área e boa comunicação.",
+        "salario": "R$8000",
+        "beneficios": "plano de saúde\nvale refeição",
+        "modalidade": "híbrido",
+        "cargaHoraria": "40h semanais",
+        "localizacao": "Rio de Janeiro/RJ",
+        "hardSkills": [
+          "UX/UI Design",
+          "Figma",
+          "Prototipagem"
+        ]
+      }
+    ],
+    "hardSkillsInteresse": [
+      "DevOps & CI/CD",
+      "Docker",
+      "Kubernetes"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "CleanCity",
+    "site": "https://www.cleancity.com.br",
+    "telefone": "(11) 4000-0023",
+    "localizacao": "Campinas/SP",
+    "sobre": "Start-up focada em soluções de IA para produtividade.",
+    "logo": "",
+    "posts": [],
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Desenvolvedor(a) de Software",
+        "descricao": "Atuar no desenvolvimento e manutenção de soluções internas.",
+        "competencias": "Experiência prévia na área e boa comunicação.",
+        "salario": "R$8000",
+        "beneficios": "plano de saúde\nvale refeição",
+        "modalidade": "híbrido",
+        "cargaHoraria": "40h semanais",
+        "localizacao": "São Paulo/SP",
+        "hardSkills": [
+          "DevOps & CI/CD",
+          "Docker",
+          "Kubernetes"
+        ]
+      }
+    ],
+    "hardSkillsInteresse": [
+      "Análise de Dados (Python/Pandas)",
+      "SQL",
+      "Visualização de Dados"
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "SmartHome",
+    "site": "https://www.smarthome.com.br",
+    "telefone": "(11) 4000-0024",
+    "localizacao": "Campinas/SP",
+    "sobre": "Soluções digitais focadas em melhorar a experiência do usuário.",
+    "logo": "",
+    "posts": [],
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Desenvolvedor(a) de Software",
+        "descricao": "Atuar no desenvolvimento e manutenção de soluções internas.",
+        "competencias": "Experiência prévia na área e boa comunicação.",
+        "salario": "R$8000",
+        "beneficios": "plano de saúde\nvale refeição",
+        "modalidade": "híbrido",
+        "cargaHoraria": "40h semanais",
+        "localizacao": "São Paulo/SP",
+        "hardSkills": [
+          "Análise de Dados (Python/Pandas)",
+          "SQL",
+          "Visualização de Dados"
+        ]
+      }
+    ],
+    "hardSkillsInteresse": [
+      "Cloud Computing (AWS)",
+      "Infraestrutura como Código",
+      "Monitoração de Sistemas"
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "LegalTech",
+    "site": "https://www.legaltech.com.br",
+    "telefone": "(11) 4000-0025",
+    "localizacao": "São Paulo/SP",
+    "sobre": "Time multidisciplinar com foco em impacto real no mercado.",
+    "logo": "",
+    "posts": [],
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Desenvolvedor(a) de Software",
+        "descricao": "Atuar no desenvolvimento e manutenção de soluções internas.",
+        "competencias": "Experiência prévia na área e boa comunicação.",
+        "salario": "R$8000",
+        "beneficios": "plano de saúde\nvale refeição",
+        "modalidade": "híbrido",
+        "cargaHoraria": "40h semanais",
+        "localizacao": "São Paulo/SP",
+        "hardSkills": [
+          "Cloud Computing (AWS)",
+          "Infraestrutura como Código",
+          "Monitoração de Sistemas"
+        ]
+      }
+    ],
+    "hardSkillsInteresse": [
+      "Testes Automatizados (Jest/Cypress)",
+      "QA",
+      "Integração Contínua"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "empresa",
+    "site": "www.empresa.com.br",
+    "telefone": "11999999999",
+    "localizacao": "São Paulo",
+    "sobre": "Atuamos na área de automação de sistemas empresariais ",
+    "logo": "",
+    "posts": [],
+    "vagas": [
+      {
+        "id": 1,
+        "titulo": "Desenvolvedor Mobile ",
+        "descricao": "desenvolve aplicativos com flutter",
+        "competencias": "flutter, node, react",
+        "salario": "R$12.800",
+        "beneficios": "Plano de saúde \nPlano odontológico\nVale alimentação",
+        "modalidade": "presencial ",
+        "cargaHoraria": "",
+        "localizacao": "São Paulo",
+        "hardSkills": [
+          "Desenvolvimento Backend (Node.js/Express)",
+          "Desenvolvimento Frontend (React)",
+          "Engenharia de Dados"
+        ]
+      }
+    ],
+    "hardSkillsInteresse": [
+      "Desenvolvimento Backend (Node.js/Express)",
+      "Desenvolvimento Frontend (React)",
+      "Engenharia de Dados"
+    ]
+  }
+]

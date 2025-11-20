@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nome": "usuario",
+    "email": "usuario@gmail.com",
+    "senha": "123456",
+    "tipoPerfil": "profissional"
+  },
+  {
+    "id": 2,
+    "nome": "empresa",
+    "email": "empresa@gmail.com",
+    "senha": "123456",
+    "tipoPerfil": "empresa"
+  }
+]
